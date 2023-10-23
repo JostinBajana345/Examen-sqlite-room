@@ -194,7 +194,7 @@ fun ItemEntryScreenPreview() {
                 origen = "Origen",
                 destiny = "Destino",
                 clasee = "Clase",
-                costo = 100  // Ejemplo de valor numérico
+                costo = 100
             )
         ), onItemValueChange = {}, onSaveClick = {})
     }
